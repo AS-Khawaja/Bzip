@@ -1,4 +1,4 @@
-# BZip2 Compression – Phase 1 Implementation
+# BZip2 Compression – Phase 1 & 2 Implementation
 
 A simplified BZip2 compression pipeline implemented in C, covering block division,
 Run-Length Encoding (RLE-1), and the Burrows-Wheeler Transform (BWT).
